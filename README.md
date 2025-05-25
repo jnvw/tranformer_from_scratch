@@ -5,7 +5,7 @@ I have built Transformer Implementation from Scratch
 A PyTorch implementation of a Transformer-based chatbot with encoder-decoder architecture, trained from scratch.
 
 ![Chatbot Demo](Screenshot_20250525_093708.png) <!-- Add a demo gif if available -->
-
+![Chatbot Demo](Screenshot_20250525_093841.png)
 ## Features
 
 - Pure PyTorch implementation of Transformer architecture
