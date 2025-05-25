@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import math
 from torch.utils.data import Dataset, DataLoader
-from transformers import GPT2Tokenizer
+from transformers import GPT2Tokenizer #only use for purpose of tokeniser 
 import gradio as gr
 
 # ====================== MODEL ARCHITECTURE ======================
